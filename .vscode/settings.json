@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": false,
+    "editor.rulers": [
+        {
+            "column": 80,
+            "color": "#ff0000"
+        }
+    ]
+}
